@@ -1,0 +1,21 @@
+{
+    "name": "seventyninepr/boilerplate",
+    "description": "Set of helper functions and standard bits to get up and running with Wordpress",
+    "keywords": ["wordpress", "plugin", "boilerplate"],
+    "authors": [
+        {
+            "name": "seventyninepr",
+            "homepage": "https://www.seventyninepr.co.uk/"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "composer/installers": "^1.4",
+        "illuminate/support": "5.2.32"
+    },
+    "autoload": {
+        "psr-4": {
+            "Seventyninepr\\Wordpress\\Boilerplate\\": "src/"
+        }
+    }
+}
