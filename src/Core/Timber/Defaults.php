@@ -1,6 +1,6 @@
 <?php
 
-namespace Seventyninepr\Wordpress\Boilerplate\Core\Timber;
+namespace seventynine\Wordpress\Boilerplate\Core\Timber;
 
 use \Timber;
 

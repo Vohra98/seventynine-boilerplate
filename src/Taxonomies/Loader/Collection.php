@@ -1,12 +1,12 @@
 <?php
 
-namespace Seventyninepr\Wordpress\Boilerplate\Taxonomies\Loader;
+namespace seventynine\Wordpress\Boilerplate\Taxonomies\Loader;
 
 use Illuminate\Support\Collection as IlluminateCollection;
 
 /**
  * Class Collection
- * @package Seventyninepr\Wordpress\Boilerplate\Taxonomies\Loader
+ * @package seventynine\Wordpress\Boilerplate\Taxonomies\Loader
  */
 class Collection extends \ArrayIterator
 {

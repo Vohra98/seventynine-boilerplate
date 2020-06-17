@@ -1,6 +1,6 @@
 <?php
 
-namespace Seventyninepr\Wordpress\Boilerplate\Acf;
+namespace seventynine\Wordpress\Boilerplate\Acf;
 
 class GoogleMap
 {

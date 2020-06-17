@@ -9,7 +9,7 @@ Simply pull in as a package through composer
 ```
 ...
 "require": {
-    ""seventyninepr/boilerplate": "~1.0"
+    ""seventynine/boilerplate": "~1.0"
 }
 ...
 ```

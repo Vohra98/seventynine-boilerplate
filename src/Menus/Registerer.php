@@ -1,6 +1,6 @@
 <?php
 
-namespace Seventyninepr\Wordpress\Boilerplate\Menus;
+namespace seventynine\Wordpress\Boilerplate\Menus;
 
 class Registerer
 {

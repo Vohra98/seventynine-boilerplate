@@ -1,6 +1,6 @@
 <?php
 
-namespace Seventyninepr\Wordpress\Boilerplate\Helpers;
+namespace seventynine\Wordpress\Boilerplate\Helpers;
 
 class ArchivedPosts
 {

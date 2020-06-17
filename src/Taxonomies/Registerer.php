@@ -1,6 +1,6 @@
 <?php
 
-namespace Seventyninepr\Wordpress\Boilerplate\Taxonomies;
+namespace seventynine\Wordpress\Boilerplate\Taxonomies;
 
 class Registerer
 {

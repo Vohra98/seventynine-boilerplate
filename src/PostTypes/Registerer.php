@@ -1,6 +1,6 @@
 <?php
 
-namespace Seventyninepr\Wordpress\Boilerplate\PostTypes;
+namespace seventynine\Wordpress\Boilerplate\PostTypes;
 
 class Registerer
 {

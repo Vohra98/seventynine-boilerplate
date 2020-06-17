@@ -1,6 +1,6 @@
 <?php
 
-namespace Seventyninepr\Wordpress\Boilerplate\Blocks;
+namespace seventynine\Wordpress\Boilerplate\Blocks;
 
 use Timber;
 
@@ -9,12 +9,12 @@ class Registerer
     const DEFAULT_PATH = STYLESHEETPATH . '/templates/modules/';
 
     const DEFAULT_SETTINGS = [
-        'title'             => 'Seventyninepr Block',
-        'name'              => 'Seventyninepr-block',
-        'description'		=> 'Seventyninepr Block',
+        'title'             => 'seventynine Block',
+        'name'              => 'seventynine-block',
+        'description'		=> 'seventynine Block',
         'category'			=> 'common',
         'icon'				=> 'admin-generic',
-        'keywords'			=> ['Seventyninepr'],
+        'keywords'			=> ['seventynine'],
         'post_types'        => ['post', 'page'],
         'supports'          => [
             'align'             => ['full'],

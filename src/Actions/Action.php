@@ -1,6 +1,6 @@
 <?php
 
-namespace Seventyninepr\Wordpress\Boilerplate\Actions;
+namespace seventynine\Wordpress\Boilerplate\Actions;
 
 interface Action
 {

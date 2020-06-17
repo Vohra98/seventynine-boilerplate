@@ -1,6 +1,6 @@
 <?php
 
-namespace Seventyninepr\Wordpress\Boilerplate\AcfOptionsPages;
+namespace seventynine\Wordpress\Boilerplate\AcfOptionsPages;
 
 class Registerer
 {

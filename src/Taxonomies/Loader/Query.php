@@ -1,10 +1,10 @@
 <?php
 
-namespace Seventyninepr\Wordpress\Boilerplate\Taxonomies\Loader;
+namespace seventynine\Wordpress\Boilerplate\Taxonomies\Loader;
 
 /**
  * Class Query
- * @package Seventyninepr\Wordpress\Boilerplate\Taxonomies\Loader
+ * @package seventynine\Wordpress\Boilerplate\Taxonomies\Loader
  */
 class Query
 {

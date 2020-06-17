@@ -1,6 +1,6 @@
 <?php
 
-namespace Seventyninepr\Wordpress\Boilerplate\Core\Wordpress;
+namespace seventynine\Wordpress\Boilerplate\Core\Wordpress;
 
 class RemoveShortLink
 {

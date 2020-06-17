@@ -1,10 +1,10 @@
 <?php
 
-namespace Seventyninepr\Wordpress\Boilerplate\Actions;
+namespace seventynine\Wordpress\Boilerplate\Actions;
 
 /**
  * Class Registerer
- * @package Seventyninepr\Wordpress\Boilerplate\Actions
+ * @package seventynine\Wordpress\Boilerplate\Actions
  */
 class Registerer
 {

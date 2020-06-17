@@ -1,15 +1,15 @@
 <?php
 
-namespace Seventyninepr\Wordpress\Boilerplate;
+namespace seventynine\Wordpress\Boilerplate;
 
-use Seventyninepr\Wordpress\Boilerplate\Core\Wordpress\DisableXmlRpc;
-use Seventyninepr\Wordpress\Boilerplate\Core\Wordpress\RemoveEmojiScript;
-use Seventyninepr\Wordpress\Boilerplate\Core\Wordpress\RemoveGenerator;
-use Seventyninepr\Wordpress\Boilerplate\Core\Wordpress\RemovePingback;
-use Seventyninepr\Wordpress\Boilerplate\Core\Wordpress\RemoveRsdLink;
-use Seventyninepr\Wordpress\Boilerplate\Core\Wordpress\RemoveShortLink;
-use Seventyninepr\Wordpress\Boilerplate\Core\Wordpress\RemoveWlwManifest;
-use Seventyninepr\Wordpress\Boilerplate\Core\Timber\Defaults as TimberDefaults;
+use seventynine\Wordpress\Boilerplate\Core\Wordpress\DisableXmlRpc;
+use seventynine\Wordpress\Boilerplate\Core\Wordpress\RemoveEmojiScript;
+use seventynine\Wordpress\Boilerplate\Core\Wordpress\RemoveGenerator;
+use seventynine\Wordpress\Boilerplate\Core\Wordpress\RemovePingback;
+use seventynine\Wordpress\Boilerplate\Core\Wordpress\RemoveRsdLink;
+use seventynine\Wordpress\Boilerplate\Core\Wordpress\RemoveShortLink;
+use seventynine\Wordpress\Boilerplate\Core\Wordpress\RemoveWlwManifest;
+use seventynine\Wordpress\Boilerplate\Core\Timber\Defaults as TimberDefaults;
 
 class Boilerplate
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Seventyninepr\Wordpress\Boilerplate\Roles;
+namespace seventynine\Wordpress\Boilerplate\Roles;
 
 class Roles
 {

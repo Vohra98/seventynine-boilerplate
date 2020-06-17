@@ -1,6 +1,6 @@
 <?php
 
-namespace Seventyninepr\Wordpress\Boilerplate\Metabox;
+namespace seventynine\Wordpress\Boilerplate\Metabox;
 
 class AddCustomExcerpt
 {
@@ -27,7 +27,7 @@ class AddCustomExcerpt
 
             if (in_array($post_type, $postTypes)) {
                 add_meta_box(
-                    'Seventyninepr_postexcerpt',
+                    'seventynine_postexcerpt',
                     __('Excerpt', 'thetab-theme'),
                     'post_excerpt_meta_box',
                     $post_type,

@@ -1,6 +1,6 @@
 <?php
 
-namespace Seventyninepr\Wordpress\Boilerplate\Search;
+namespace seventynine\Wordpress\Boilerplate\Search;
 
 class Search
 {

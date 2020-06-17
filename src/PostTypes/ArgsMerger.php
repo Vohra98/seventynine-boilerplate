@@ -1,8 +1,8 @@
 <?php
 
-namespace Seventyninepr\Wordpress\Boilerplate\PostTypes;
+namespace seventynine\Wordpress\Boilerplate\PostTypes;
 
-use Seventyninepr\Wordpress\Boilerplate\Helpers\Pluraliser;
+use seventynine\Wordpress\Boilerplate\Helpers\Pluraliser;
 
 class ArgsMerger
 {
